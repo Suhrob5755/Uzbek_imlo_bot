@@ -4,7 +4,7 @@ from aiogram import Bot, Dispatcher, executor, types
 from checkWords import checkWords
 from transliterate import to_latin,to_cyrillic
 
-API_TOKEN = "5286814898:AAGMtZqoDNNZiCarnc5nMafMPbu2GodEFo8"
+API_TOKEN = "API_TOKEN"
 
 logging.basicConfig(level=logging.INFO)
 
